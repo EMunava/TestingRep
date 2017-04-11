@@ -1,7 +1,5 @@
-/*My Testing File
-
-@author A222514
-
+/**
+* @author A222514
 */
 
 public class TestingFile{
